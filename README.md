@@ -30,7 +30,8 @@ A simulated load-current monitor on Arduino Uno. A potentiometer stands in for a
 See `overload_monitor.ino`
 
 ## Result
-Add screenshot of the Proteus simulation here.
+Demo video:
+https://youtu.be/3coMiEUMQ5w?si=adOJ0Cc_qf3UmbGV
 
 ## What I learned
 - Reading analog input and scaling it to real units
